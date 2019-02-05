@@ -1,0 +1,2 @@
+# zypcoin.github.io
+Zypcoin
